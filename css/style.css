@@ -34,7 +34,8 @@ a {
 }
 
 @media only screen and (max-width: 480px) {
-        .welcome-note {
+        h1 {
             color: cornflowerblue;
+            font-size: 34px;
         }
 }
